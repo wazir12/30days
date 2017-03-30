@@ -1,10 +1,5 @@
 # Day 12: Inheritance
 
-https://www.hackerrank.com/challenges/30-inheritance
-
-Objective 
-Today, we're delving into Inheritance. Check out the Tutorial tab for learning materials and an instructional video!
-
 Task 
 You are given two classes, Person and Student, where Person is the base class and Student is the derived class. Completed code for Person and a declaration for Student are provided for you in the editor. Observe that Student inherits all the properties of Person.
 

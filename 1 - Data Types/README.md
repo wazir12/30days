@@ -1,7 +1,4 @@
 
-**Objective**   
-Today, we're discussing data types. Check out the [Tutorial]("/challenges/30-data-types/tutorial") tab for learning materials and an instructional video!     
-
 **Task**   
 Complete the code in the editor below. The variables iii, ddd, and sss are already declared and initialized for you. You must declare 333 variables: one of type _int_, one of type _double_, and one of type _String_. Then you must read 333 lines of input from stdin and initialize your 333 variables. Finally, you must use the +++ operator to perform the following operations:
  

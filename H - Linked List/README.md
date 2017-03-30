@@ -1,11 +1,5 @@
 # Day 15: Linked List
 
-https://www.hackerrank.com/challenges/30-linked-list
-
-Objective 
-
-Today we're working with Linked Lists. Check out the Tutorial tab for learning materials and an instructional video!
-
 A Node class is provided for you in the editor. A Node object has an integer data field, data, and a Node instance pointer, next, pointing to another node (i.e.: the next node in a list).
 
 A Node insert function is also declared in your editor. It has two parameters: a pointer, head, pointing to the first node of a linked list, and an integer data value that must be added to the end of the list as a new Node object.

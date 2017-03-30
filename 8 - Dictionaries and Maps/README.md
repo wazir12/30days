@@ -1,13 +1,5 @@
 #Day 8: Dictionaries and Maps
 
-https://www.hackerrank.com/challenges/30-dictionaries-and-maps
-
-Objective 
-
-Today, we're learning about Key-Value pair mappings using a Map or
-Dictionary data structure. Check out the Tutorial tab for learning
-materials and an instructional video!
-
 Task 
 
 Given names and phone numbers, assemble a phone book that maps

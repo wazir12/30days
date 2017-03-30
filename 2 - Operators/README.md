@@ -1,10 +1,5 @@
 #Day 2: Operators
 
-https://www.hackerrank.com/challenges/30-operators
-
-##Objective 
-
-In this challenge, you'll work with arithmetic operators. Check out the Tutorial tab for learning materials and an instructional video!
 
 ##Task 
 

@@ -1,10 +1,5 @@
 # Day 20: Sorting
 
-https://www.hackerrank.com/challenges/30-sorting
-
-Objective 
-
-Today, we're discussing a simple sorting algorithm called Bubble Sort. Check out the Tutorial tab for learning materials and an instructional video!
 
 Consider the following version of Bubble Sort:
 

@@ -1,7 +1,5 @@
 # Day 24: More Linked Lists
 
-https://www.hackerrank.com/challenges/30-linked-list-deletion
-
 Task 
 
 A Node class is provided for you in the editor. A Node object has an integer data field, data, and a Node instance pointer, next, pointing to another node (i.e.: the next node in a list).

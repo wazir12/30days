@@ -1,8 +1,5 @@
 #Day 5: Loops
 
-https://www.hackerrank.com/challenges/30-loops
-
-
 ##Task 
 
 Given an integer, n, print its first 10 multiples

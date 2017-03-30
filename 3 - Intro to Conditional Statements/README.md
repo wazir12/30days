@@ -1,11 +1,5 @@
 #Day 3: Conditionals
 
-https://www.hackerrank.com/challenges/30-conditional-statements
-
-##Objective 
-
-In this challenge, we're getting started with conditional statements. Check out the Tutorial tab for learning materials and an instructional video!
-
 ##Task 
 
 Given an integer, , perform the following conditional actions:

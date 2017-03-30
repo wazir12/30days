@@ -1,7 +1,5 @@
 #Day 7: Let's Review
 
-https://www.hackerrank.com/challenges/30-arrays
-
 
 ##Task 
 

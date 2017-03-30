@@ -1,7 +1,5 @@
 # Day 25: Running Time and Complexity
 
-https://www.hackerrank.com/challenges/30-running-time-and-complexity
-
 Task 
 
 A prime is a natural number greater than 1 that has no positive divisors other than  and itself. Given a number, n, determine and print whether it's prime or not prime.
